@@ -1,0 +1,85 @@
+.bg{
+    background-image: url(sea.jpg);
+    height: 100vh;
+    background-size: cover;
+    
+}
+.bg-card{
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding-bottom: 10px;
+
+}
+.button{
+    background-color: rgb(128, 202, 198);
+    border-radius: 10px;
+    border-color: lightblue;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+.button-green{
+    background-color: rgb(63, 190, 63);
+}
+.button-orange{
+    background-color: rgb(238, 104, 56);
+}.background{
+    background-image: url(img1.jpg);
+    background-size: cover;
+}
+.fav-places{
+    color: white;
+    padding: 24px;
+}
+.card-container{
+      background-color: rgb(212, 212, 212);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+}
+.card-heading{
+    font-size: 23px;
+    color: rgb(37, 29, 17);
+    padding: 10px;
+    font-family: "roboto";
+    
+}
+.card-description{
+    
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: bold;
+}
+.image{
+    height: 100px;
+    width: 80px;
+    border-radius: 5px;
+}
+.bg-container{
+    background-image: url(img0.jpg);
+    background-size: cover;
+    height: 120vh;
+}
+.heading{
+    color: rgba(117, 73, 81, 0.585);
+    padding: 5px;
+    margin: 30px;
+}
+.card-heading{
+    font-size: 30px;
+    padding: 10px;
+    color: rgba(76, 51, 55, 0.585);
+
+}
+.card-description{
+    padding: 10px;
+}
+.card-text-container{
+    padding: 10px;
+}
+.card-container{
+    margin: 24px;
+    background-color: white;
+    border-radius: 8px;
+}
